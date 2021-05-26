@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bai1.BT.HienThiLoiChao/Bai1.BT.HienThiLoiChao.iml" filepath="$PROJECT_DIR$/Bai1.BT.HienThiLoiChao/Bai1.BT.HienThiLoiChao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai1.Homework1/Bai1.Homework1.iml" filepath="$PROJECT_DIR$/Bai1.Homework1/Bai1.Homework1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai1.KhaiBaoBien/Bai1.KhaiBaoBien.iml" filepath="$PROJECT_DIR$/Bai1.KhaiBaoBien/Bai1.KhaiBaoBien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai1.TH.GiaiPhuongTrinhBac1/Bai1.TH.GiaiPhuongTrinhBac1.iml" filepath="$PROJECT_DIR$/Bai1.TH.GiaiPhuongTrinhBac1/Bai1.TH.GiaiPhuongTrinhBac1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai1.TH.KiemTraNamNhuan/Bai1.TH.KiemTraNamNhuan.iml" filepath="$PROJECT_DIR$/Bai1.TH.KiemTraNamNhuan/Bai1.TH.KiemTraNamNhuan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai1.TH.SuDungToanTu/Bai1.TH.SuDungToanTu.iml" filepath="$PROJECT_DIR$/Bai1.TH.SuDungToanTu/Bai1.TH.SuDungToanTu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai1.TH.TinhSoNgayTrongThang/Bai1.TH.TinhSoNgayTrongThang.iml" filepath="$PROJECT_DIR$/Bai1.TH.TinhSoNgayTrongThang/Bai1.TH.TinhSoNgayTrongThang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai1.UngDungDocSoThanhChu/Bai1.UngDungDocSoThanhChu.iml" filepath="$PROJECT_DIR$/Bai1.UngDungDocSoThanhChu/Bai1.UngDungDocSoThanhChu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai2.TH.KiemTraSoNguyenTo/Bai2.TH.KiemTraSoNguyenTo.iml" filepath="$PROJECT_DIR$/Bai2.TH.KiemTraSoNguyenTo/Bai2.TH.KiemTraSoNguyenTo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DuAn1/DuAn1.iml" filepath="$PROJECT_DIR$/DuAn1/DuAn1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DuAn2/DuAn2.iml" filepath="$PROJECT_DIR$/DuAn2/DuAn2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MODULE 2.iml" filepath="$PROJECT_DIR$/.idea/MODULE 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/Test1.iml" filepath="$PROJECT_DIR$/Test1/Test1.iml" />
+    </modules>
+  </component>
+</project>
